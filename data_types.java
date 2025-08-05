@@ -1,5 +1,5 @@
 
-public class task1 {
+public class data_types {
 
 	public static void main(String args[]) {
 		long d = 10000000000L;
@@ -21,6 +21,7 @@ public class task1 {
 		
 	}
 }
+
 
 
 
